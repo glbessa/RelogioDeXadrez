@@ -2,4 +2,4 @@
 
 Aplicativo para celular que serve como um relógio de xadrez e pode ser usado para jogar.
 
-![User Interface](assets/UI.png)
+<img src="assets/UI.png" height="200px"/>
